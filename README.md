@@ -102,7 +102,6 @@ sudo nano /var/html/index.html
 over the time i developed this code here and put it into the index.html file
 
 
-# My Online CV – HTML Source
 
 Below is the full HTML source code for my interactive online CV. You can use it, customize it, or integrate it into your own site.
 
