@@ -45,6 +45,11 @@ check if the apache default page is there
 exit and stop instance
 
 
+
+
+
+
+
 WEEK 2:
 notes: with my instance launched and decision made on how to make the website, I decided that my next course of action should be running python cert bot commands, getting an elastic ip and a custom domain for the instance, so that my next 2 weeks of development can be dedicated to creating the html page and designing it 
 
@@ -76,6 +81,11 @@ enter the custom domain when prompted
 opt to redirect all http traffic to https
 
 exit and stop instance
+
+
+
+
+
 
 WEEK 3 and 4: 
 note: So at the start of week three  I have not started coding however we have:
